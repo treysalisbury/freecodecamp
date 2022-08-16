@@ -1,0 +1,19 @@
+.main-section header{
+  font-weight:bold;
+  font-size:1.2em;
+}
+
+@media (min-width:0){ #navbar {
+  height: 100%;
+  width: 160px;
+  position: fixed;
+  z-index: 1;
+  top: 5%;
+  left: 0;
+  overflow-x: hidden;
+  }
+main {
+  position:fixed;
+  left:50%;
+}
+}
